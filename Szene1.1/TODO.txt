@@ -1,0 +1,20 @@
+- bessere Bäume (Stamm dran und prozeduale Methode "Bushes and Trees")
+- Straße (direkt mit Material)
+- Wand ums Kraftwerk (direkt mit Material)
+- Häuser entlang Straße (händisch platzieren)
+- Gärten durch Hecken und Bäume bilden ("Bushes and Trees")
+- Rauch/Wasserdampf aus den Schornsteinen
+- Wasser im Fluss
+- Texturen 
+	- Häuser
+	- Hochhäuser
+	- Hügel
+	- Kraftwerk
+- Grease Pencil
+	- Outlines 
+		- Nur außen für weit enfernte Objekte
+		- genauer für nähere Objekte ("Objekt to Grease Pencil Methode")
+	- Thermometer
+	- CO2-Meter
+- Farben anpassen 
+- LOD bei allen prozedualen Sachen anpassen
