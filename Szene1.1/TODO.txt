@@ -1,5 +1,5 @@
 - bessere Bäume (Stamm dran und prozeduale Methode "Bushes and Trees")
-- Straße (direkt mit Material)
+x Straße (direkt mit Material)
 - Wand ums Kraftwerk (direkt mit Material)
 - Häuser entlang Straße (händisch platzieren)
 - Gärten durch Hecken und Bäume bilden ("Bushes and Trees")
