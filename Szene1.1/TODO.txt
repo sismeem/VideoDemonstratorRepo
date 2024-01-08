@@ -1,4 +1,4 @@
-- bessere Bäume (Stamm dran und prozeduale Methode "Bushes and Trees")
+x bessere Bäume (Stamm dran und prozeduale Methode "Bushes and Trees")
 x Straße (direkt mit Material)
 - Wand ums Kraftwerk (direkt mit Material)
 - Häuser entlang Straße (händisch platzieren)
