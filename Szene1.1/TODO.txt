@@ -18,3 +18,4 @@ x Straße (direkt mit Material)
 	- CO2-Meter
 - Farben anpassen 
 - LOD bei allen prozedualen Sachen anpassen
+- Bevor Anwenden der Geonodes: AssetfileLibrary
